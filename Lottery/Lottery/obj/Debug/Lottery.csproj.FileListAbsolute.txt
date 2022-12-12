@@ -1,0 +1,11 @@
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\fschu\OneDrive\Dokumente\GitHub\lottoprogramm-Fabian-SB\Lottery\Lottery\obj\Debug\Lottery.pdb
